@@ -1,0 +1,9 @@
+
+
+java:S1488s"\Immediately return this expression instead of assigning it to the temporary variable "json".(†Ñ¦_8ôêû¼ˆ2J$08632327-b28f-4f18-b4a8-e64e04df6e2f
+v
+java:S2755R"3Disable access to external entities in XML parsing.(ğ¨ºî8ôêû¼ˆ2J$0f49a2a9-ef7d-45c2-821c-01888ef076c4
+r	java:S106*"+Replace this use of System.out by a logger.(õ™çÒûÿÿÿÿ8úêû¼ˆ2J$8eef807d-2a69-44a5-b63f-3c759c849991
+r	java:S106H"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8†ëû¼ˆ2J$5e86b2a6-7a36-485f-b3f0-2d8f6bd5457d
+o
+java:S1168†"+Return an empty collection instead of null.(¥¹ï8ëû¼ˆ2J$c4d939cf-3c1c-4ec3-a57d-cc015683f625
